@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daeheung-fullsalon-note.best-samseong-hotplace.xyz/sitemap.xml
+Sitemap: https://daeheung-fullsalon-note.best-samseong-hotplace.xyz/sitemap-pages.xml
